@@ -1,0 +1,112 @@
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading {
+    text-align: center;
+    /* color: #3B5998; */
+    color: #1877f2;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    letter-spacing: -1px;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.login_fb {
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    height: 315px;
+    width: 375px;
+    border: 2px solid #f0f2f5;
+    margin-left: 400px;
+    border-radius: 15px;
+    background-color: white;
+    margin-top: -20px;
+    /* align-items: center; */
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
+}
+
+.form_details {
+    margin-top: 15px;
+}
+
+#email {
+    padding: 15px;
+    width: 300px;
+    border-radius: 6px;
+    border: 1px solid #c6c8cb;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+#password {
+    padding: 15px;
+    width: 300px;
+    border-radius: 6px;
+    margin-left: 5px;
+    border: 1px solid #c6c8cb;
+    font-size: 16px;
+}
+
+#submit {
+    padding: 16px;
+    width: 330px;
+    border-radius: 6px;
+    margin-left: 9px;
+    font-size: 16px;
+    background-color: #1877f2;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    /* display: inline-block; */
+    margin-top: 15px;
+}
+
+#submit:hover {
+    opacity: 0.9;
+}
+
+.account {
+    font-size: 13px;
+    color: #1877f2;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 15px;
+    /* font-weight: normal; */
+    /* display: block; */
+}
+
+.account a {
+    text-decoration: none;
+    color: #1877f2;
+    margin-left: 26px;
+    margin-top: 20px;
+}
+
+.account a:hover {
+    text-decoration: underline;
+}
+
+#fa {
+    margin-left: 12px;
+}
+
+#sf {
+    margin-left: 8px;
+}
+
+.centerScreen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
